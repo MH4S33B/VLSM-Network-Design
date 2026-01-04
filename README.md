@@ -160,4 +160,4 @@ This project demonstrates a **professional enterprise network design** implement
 - **Syed Ahtesham**
 
 **Course:** Computer Networks  
-**Instructor:** Miss Maila Zahra
+**Instructor:** [Miss Maila Zahra](https://www.linkedin.com/in/mailazahra/)
