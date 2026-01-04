@@ -124,14 +124,14 @@ All tests confirmed correct routing, connectivity, and security enforcement.
 
 ## 📂 Project Files & Resources
 
-- 📡 **Cisco Packet Tracer File**  
-  https://github.com/MH4S33B/VLSM-Network-Design/blob/main/Cisco%20Packet%20Tracer%20VLSM.pkt
+- 📡 **[Cisco Packet Tracer File](https://github.com/MH4S33B/VLSM-Network-Design/blob/main/Cisco%20Packet%20Tracer%20VLSM.pkt)**  
+  
 
-- 📊 **Project Presentation**  
-  https://github.com/MH4S33B/VLSM-Network-Design/blob/main/VLSM%20Presentation.pptx
+- 📊 **[Project Presentation](https://github.com/MH4S33B/VLSM-Network-Design/blob/main/VLSM%20Presentation.pptx)**  
+  
 
-- 📄 **Detailed Project Report**  
-  https://github.com/MH4S33B/VLSM-Network-Design/blob/main/VLSM%20Report.pdf
+- 📄 **[Detailed Project Report](https://github.com/MH4S33B/VLSM-Network-Design/blob/main/VLSM%20Report.pdf)**  
+  
 
 ---
 
